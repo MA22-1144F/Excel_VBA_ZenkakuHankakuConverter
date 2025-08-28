@@ -3,7 +3,7 @@
 ## 概要
 Excelの選択範囲のテキストを全角から半角または半角から半角に変換します。
 PERSONAL.XLSBに保存して動作させることを想定しています。  
-<img src="image.png" alt="ユーザーフォーム画面" width="400">
+<img src="image_zenhancon.png" alt="イメージ画面" width="600">
 
 ## 動作環境
 Microsoft Excel上で動作します。  
