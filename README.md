@@ -1,0 +1,2 @@
+# Excel_VBA_ZenkakuHankakuConverter
+全角半角
