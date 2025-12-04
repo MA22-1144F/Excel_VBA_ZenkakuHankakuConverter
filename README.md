@@ -35,10 +35,7 @@ Microsoft Excel上で動作します。
   * カタカナ  
   * スペース  
 
-* 数式が入力されたセルに対する処理の選択  
-
-## 連絡先
-[Instagram](https://www.instagram.com/nattotoasto?igsh=NWNtdHhnY3A4NDQ0 "nattotoasto")
+* 数式が入力されたセルに対する処理の選択
 
 ## ライセンス
 MIT License
